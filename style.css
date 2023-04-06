@@ -47,7 +47,7 @@ html, body {
 
   .hands {
     height: 100px;
-    background-color: #b8937a;
+    background-color: yellow;
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -59,7 +59,7 @@ html, body {
     height: 50px;
     width: 50px;
     color: white;
-    background-color: #fcc006;
+    background-color: blue;
     border-radius: 50%;
     display: flex;
     justify-content: center;
