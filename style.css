@@ -59,7 +59,7 @@ html, body {
     height: 50px;
     width: 50px;
     color: white;
-    background-color: #fcc006;
+    background-color: rgb(255, 244, 211);
     border-radius: 50%;
     display: flex;
     justify-content: center;
